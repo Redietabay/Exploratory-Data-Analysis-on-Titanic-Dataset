@@ -111,7 +111,6 @@ Feel free to fork this repository and improve the analysis or add more visualiza
 
 If you have suggestions, feedback, or opportunities, feel free to reach out:
 
-* 📧 Email: [abayrediet7@gmail.com]
 * 💼 LinkedIn: ([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/rediet-abay/))
 * 🐙 GitHub: [https://github.com/Redietabay](https://github.com/Redietabay)
 
